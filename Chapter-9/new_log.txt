@@ -1,0 +1,17 @@
+Initializing M4File on Mon Dec 10 11:24:39 2003
+Searching for previous journal files
+Processing c:\your_journal\M4F150.txt:
+ output was written: c:\out\wally.10104
+ input not found: c:\stage\wal850.10104
+ removed journal file Python
+Processing c:\your_journal\M4F172.txt:
+ output was written: c:\out\wally.10120
+ input found with same size and time stamp -- removing: c:\stage\wal850.10120.
+ removed journal file Python
+Processing c:\your_journal\M4F211.txt:
+ output c:\out\wally.10150 not written.  removing tmp file: c:\out\Merd3.tmp
+ removed journal file 
+Processing c:\your_journal\M4F213.txt:
+ 0 byte journal file...
+ removed journal file 
+Processed 4 journal files
